@@ -5,6 +5,7 @@ import { Text } from "react-native";
 
 export default function HomeScreen() {
     return(
-        <Text>Hello Miya</Text>
+        <Text className='font-bold text-4xl p-10 bg-red-500 color-blue-500'>   Miya</Text>
+
     )
 }
