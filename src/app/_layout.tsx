@@ -9,7 +9,7 @@ export default function RootLayout(){
     return (
         <Stack>
             <Stack.Screen name="index" options={{
-                title:"Meditations"
+                title:"Home"
             }}/>
         </Stack>
     )
